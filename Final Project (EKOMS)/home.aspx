@@ -79,40 +79,33 @@
         <div id="news" class="offset">
 
             <div class="col-12 narrow text-center">
-                <h1>Ekoms</h1>
-                <p class="lead">Website that brings the latest news about vape and 
-                    can locate vape stores when you are run out of juice.
-                </p>
-                <a class="btn btn-secondary btn-md" href="https://vaping360.com/vape-news/" target="_blank">News about vape</a>
+                <h1>Vape News</h1>
+                
 
                 <!-- Start Carousel -->
-                <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+                <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active" ></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                     </ol>
-                    <div class="carousel-inner">
+                    <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="\pictures\cs4.jpg" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block">
-                        <iframe src="https://www.w3schools.com"></iframe>
-                        <h5>Vaping360</h5>
-                        <p>As the home of vaping, our aspiration is to help create a smoke-free planet.</p>
+                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
+                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
+                            <iframe src="https://vaping360.com/vape-news/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="pictures\cs1.png" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block">
-                        <h5>Independent</h5>
-                        <p>UK's largest quality digital news brand.</p>
+                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
+                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
+                            <iframe src="https://vaping360.com/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="pictures\cs2.jpg" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block">
-                        <h5>Rappler</h5>
-                        <p>a social news network where stories inspire community engagement and digitally fuelled actions for social change.</p>
+                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
+                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
+                            <iframe src="https://vaping360.com/best-beginner-e-cigs-vapes/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
                         </div>
                     </div>
                     </div>
@@ -125,7 +118,12 @@
                     <span class="sr-only">Next</span>
                     </a>
                 </div>
+
                 <!-- End Carousel -->
+                <p class="lead">Website that brings the latest news about vape and 
+                    can locate vape stores when you are run out of juice.
+                </p>
+                <a class="btn btn-secondary btn-md" href="https://vaping360.com/vape-news/" target="_blank">Click here to view more</a>
             </div>
         </div>
         <!-- End news Section -->

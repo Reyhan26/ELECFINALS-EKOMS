@@ -96,6 +96,19 @@ body {
         border-color: #b5b246;
     }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: #161608;
+    background-size: 100%, 100%;
+    background-image: none;
+    color: #161608;
+}
+
+.carousel-control {
+    color: #bada55;
+}
 /*--- Calculator Section ---*/
 
 .jumbotron {
