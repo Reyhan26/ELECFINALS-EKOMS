@@ -66,7 +66,7 @@
 
             <div class="caption text-center">
                 <h1>Welcome to Ekoms</h1>
-                <h3>We don't blow smoke, we blow clouds </h3>
+                <h3>We don't blow smoke, We blow clouds </h3>
                 <a class="btn btn-outline-light btn-lg" href="#news">Let's Do It!</a>
             </div>
 
@@ -79,47 +79,19 @@
         <div id="news" class="offset">
 
             <div class="col-12 narrow text-center">
-                <h1>Vape News</h1>
-                
-
-                <!-- Start Carousel -->
-                <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active" ></li>
-                    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner" role="listbox">
-                    <div class="carousel-item active">
-                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
-                            <iframe src="https://vaping360.com/vape-news/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
+                <div class="card">
+                    <div class="front">
+                        <img src="pictures/Vape Assistant 2020(1).png"/>
+                    </div>
+                    <div class="back">
+                        <div class="details">
+                            <h2>Vape News<br/>
+                                <span> <br /></span>
+                            </h2>
+                            <iframe src="https://vaping360.com/vape-news/" width="700" height="450"></iframe>
                         </div>
                     </div>
-                    <div class="carousel-item">
-                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
-                            <iframe src="https://vaping360.com/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="/pictures/cs4.jpg" class="d-block w-100" alt="..."/>
-                        <div class="carousel-caption d-none d-md-block" style="color: #888534;">
-                            <iframe src="https://vaping360.com/best-beginner-e-cigs-vapes/?transparent=0" style="background-color: #FFFFFF" width="500" height="800"></iframe>
-                        </div>
-                    </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                    </a>
                 </div>
-
-                <!-- End Carousel -->
                 <p class="lead">Website that brings the latest news about vape and 
                     can locate vape stores when you are run out of juice.
                 </p>

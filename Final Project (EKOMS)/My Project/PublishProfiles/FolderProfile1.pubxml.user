@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\WebEkoms</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.aspx">
+      <publishTime>03/01/2020 13:10:10</publishTime>
+    </File>
+    <File Include="bin/AForge.dll">
+      <publishTime>07/17/2013 23:15:16</publishTime>
+    </File>
+    <File Include="bin/AForge.Imaging.dll">
+      <publishTime>07/17/2013 23:19:04</publishTime>
+    </File>
+    <File Include="bin/AForge.Math.dll">
+      <publishTime>07/17/2013 23:17:04</publishTime>
+    </File>
+    <File Include="bin/AForge.Video.DirectShow.dll">
+      <publishTime>07/17/2013 23:20:56</publishTime>
+    </File>
+    <File Include="bin/AForge.Video.dll">
+      <publishTime>07/17/2013 23:20:24</publishTime>
+    </File>
+    <File Include="bin/Final Project %28EKOMS%29.dll">
+      <publishTime>03/09/2020 01:57:01</publishTime>
+    </File>
+    <File Include="bin/Final Project %28EKOMS%29.pdb">
+      <publishTime>03/09/2020 01:57:01</publishTime>
+    </File>
+    <File Include="bin/Final Project %28EKOMS%29.xml">
+      <publishTime>03/09/2020 01:57:01</publishTime>
+    </File>
+    <File Include="bin/Gma.QrCodeNet.Encoding.dll">
+      <publishTime>03/17/2013 13:26:30</publishTime>
+    </File>
+    <File Include="bin/Gma.QrCodeNet.Encoding.pdb">
+      <publishTime>03/17/2013 13:26:30</publishTime>
+    </File>
+    <File Include="bin/MessagingToolkit.QRCode.dll">
+      <publishTime>04/18/2012 12:05:14</publishTime>
+    </File>
+    <File Include="bin/QrWebCam.dll">
+      <publishTime>03/10/2017 13:03:32</publishTime>
+    </File>
+    <File Include="bin/WebCam_Capture.dll">
+      <publishTime>03/01/2020 20:56:37</publishTime>
+    </File>
+    <File Include="bin/zxing.dll">
+      <publishTime>09/28/2019 20:41:18</publishTime>
+    </File>
+    <File Include="bin/zxing.pdb">
+      <publishTime>09/28/2019 20:41:18</publishTime>
+    </File>
+    <File Include="bin/zxing.presentation.dll">
+      <publishTime>09/28/2019 20:41:20</publishTime>
+    </File>
+    <File Include="bin/zxing.presentation.pdb">
+      <publishTime>09/28/2019 20:41:20</publishTime>
+    </File>
+    <File Include="calculator.aspx">
+      <publishTime>03/04/2020 03:52:48</publishTime>
+    </File>
+    <File Include="CSS/all.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/all.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-grid.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-grid.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-grid.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-grid.min.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-reboot.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-reboot.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-reboot.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-reboot.min.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.min.css">
+      <publishTime>03/08/2020 13:47:59</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.min.css.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/brands.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/brands.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/fixed.css">
+      <publishTime>03/03/2020 22:33:04</publishTime>
+    </File>
+    <File Include="CSS/fontawesome.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/fontawesome.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/regular.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/regular.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/solid.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/solid.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/svg-with-js.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/svg-with-js.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/v4-shims.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="CSS/v4-shims.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="findstore.aspx">
+      <publishTime>03/01/2020 21:30:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/all.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/all.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/brands.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/brands.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/fontawesome.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/fontawesome.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/regular.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/regular.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/solid.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/solid.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/svg-with-js.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/svg-with-js.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/v4-shims.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/css/v4-shims.min.css">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/all.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/all.min.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/brands.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/brands.min.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/conflict-detection.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/conflict-detection.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/fontawesome.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/fontawesome.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/regular.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/regular.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/solid.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/solid.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/v4-shims.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/js/v4-shims.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/LICENSE.txt">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-brands-400.svg">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-brands-400.ttf">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff2">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-regular-400.svg">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-regular-400.ttf">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff2">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-solid-900.svg">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-solid-900.ttf">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff2">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>03/09/2020 00:31:04</publishTime>
+    </File>
+    <File Include="js/all.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/all.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.js.map">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.min.js.map">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.js.map">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js.map">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/brands.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/brands.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/conflict-detection.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/conflict-detection.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/fontawesome.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/fontawesome.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/jquery-3.3.1.min.js">
+      <publishTime>03/04/2020 02:59:06</publishTime>
+    </File>
+    <File Include="js/regular.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/regular.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/solid.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/solid.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/v4-shims.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="js/v4-shims.min.js">
+      <publishTime>03/01/2020 13:04:00</publishTime>
+    </File>
+    <File Include="pictures/4k-wallpaper-adventure-clouds-730981.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/bg2.jpg">
+      <publishTime>03/04/2020 04:50:02</publishTime>
+    </File>
+    <File Include="pictures/cs1.png">
+      <publishTime>03/08/2020 20:26:46</publishTime>
+    </File>
+    <File Include="pictures/cs2.jpg">
+      <publishTime>03/08/2020 20:26:46</publishTime>
+    </File>
+    <File Include="pictures/cs4.jpg">
+      <publishTime>03/08/2020 20:26:46</publishTime>
+    </File>
+    <File Include="pictures/kit.jpg">
+      <publishTime>03/04/2020 02:31:06</publishTime>
+    </File>
+    <File Include="pictures/log.png">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.45.55.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.46.34.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.47.18.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.48.07.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.48.50.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/PicsArt_01-15-09.52.12.jpg">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/rey.jpg">
+      <publishTime>03/04/2020 02:31:06</publishTime>
+    </File>
+    <File Include="pictures/sods.jpg">
+      <publishTime>03/04/2020 02:31:06</publishTime>
+    </File>
+    <File Include="pictures/tags.jpg">
+      <publishTime>03/04/2020 02:31:06</publishTime>
+    </File>
+    <File Include="pictures/Vape Assistant 2020%281%29.png">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/Vape Assistant 2020.png">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/Vape_Assistant_2020_2_-removebg.png">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="pictures/vbblogo.png">
+      <publishTime>03/03/2020 22:25:26</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js.map">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js.map">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js.map">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js.map">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/index.js.flow">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.js">
+      <publishTime>03/01/2020 13:03:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper.js.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js.map">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/README.md">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/index.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/defaults.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/destroy.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/disableEventListeners.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/enableEventListeners.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/placements.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/methods/update.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/applyStyle.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/arrow.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/computeStyle.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/flip.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/hide.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/index.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/inner.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/keepTogether.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/offset.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/preventOverflow.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/modifiers/shift.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/clockwise.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/computeAutoPlacement.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/debounce.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/find.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/findCommonOffsetParent.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/findIndex.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getBordersSize.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getBoundaries.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getBoundingClientRect.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getClientRect.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getFixedPositionOffsetParent.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOffsetParent.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOffsetRect.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOffsetRectRelativeToArbitraryNode.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOppositePlacement.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOppositeVariation.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getOuterSizes.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getParentNode.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getPopperOffsets.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getReferenceNode.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getReferenceOffsets.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getRoot.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getRoundedOffsets.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getScroll.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getScrollParent.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getStyleComputedProperty.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getSupportedPropertyName.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getViewportOffsetRectRelativeToArtbitraryNode.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getWindow.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/getWindowSizes.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/includeScroll.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/index.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isBrowser.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isFixed.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isFunction.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isIE.js">
+      <publishTime>03/01/2020 13:03:56</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isModifierEnabled.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isModifierRequired.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isNumeric.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/isOffsetContainer.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/removeEventListeners.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/runModifiers.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/setAttributes.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/setStyles.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/src/utils/setupEventListeners.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js.flow">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js.map">
+      <publishTime>03/01/2020 13:03:58</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>03/09/2020 00:20:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/09/2020 01:57:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

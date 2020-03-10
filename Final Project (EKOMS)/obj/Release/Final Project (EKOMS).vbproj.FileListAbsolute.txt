@@ -1,0 +1,34 @@
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Final Project (EKOMS).dll.config
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Final Project (EKOMS).dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Final Project (EKOMS).pdb
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Final Project (EKOMS).xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Imaging.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Math.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Video.DirectShow.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Video.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Gma.QrCodeNet.Encoding.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\MessagingToolkit.QRCode.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\QrWebCam.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\WebCam_Capture.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.presentation.dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Imaging.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Math.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Video.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\AForge.Video.DirectShow.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\Gma.QrCodeNet.Encoding.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.pdb
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.presentation.pdb
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\bin\zxing.presentation.xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).vbprojAssemblyReference.cache
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final_Project__EKOMS_.Resources.resources
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).vbproj.GenerateResource.cache
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).vbproj.CoreCompileInputs.cache
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).vbproj.CopyComplete
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).dll
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).xml
+C:\Users\Renee\Downloads\reyhan's files 2019\college files\REYHAN 2019\5th yr 2nd sem\ELECS 3 (madrigalejos)\Final Project (EKOMS)\Final Project (EKOMS)\obj\Release\Final Project (EKOMS).pdb

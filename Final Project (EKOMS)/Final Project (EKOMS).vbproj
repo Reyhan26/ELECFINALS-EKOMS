@@ -207,6 +207,7 @@
     <Content Include="pictures\cs4.jpg" />
     <Content Include="pictures\kit.jpg" />
     <Content Include="pictures\log.png" />
+    <Content Include="pictures\news.jpg" />
     <Content Include="pictures\PicsArt_01-15-09.45.55.jpg" />
     <Content Include="pictures\PicsArt_01-15-09.46.34.jpg" />
     <Content Include="pictures\PicsArt_01-15-09.47.18.jpg" />
@@ -216,6 +217,7 @@
     <Content Include="pictures\rey.jpg" />
     <Content Include="pictures\sods.jpg" />
     <Content Include="pictures\tags.jpg" />
+    <Content Include="pictures\tiger.jpg" />
     <Content Include="pictures\Vape Assistant 2020%281%29.png" />
     <Content Include="pictures\Vape Assistant 2020.png" />
     <Content Include="pictures\Vape_Assistant_2020_2_-removebg.png" />
@@ -224,6 +226,8 @@
     <Content Include="Scripts\esm\popper-utils.min.js" />
     <Content Include="Scripts\esm\popper.js" />
     <Content Include="Scripts\esm\popper.min.js" />
+    <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="My Project\PublishProfiles\FolderProfile1.pubxml" />
     <None Include="packages.config" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
