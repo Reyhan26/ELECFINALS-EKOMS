@@ -174,17 +174,10 @@
                         <div class="heading-underline"></div>
                     </div> 
 
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                             <h3>Search Manually</h3>
                             <div class="calculator">
                                 <a href="https://www.google.com/maps/search/vape+shops/@14.7324668,121.0679065,15z/data=!3m1!4b1" target="_blank"><i class="fas fa-map-marked-alt fa-3x" style="color: #e3df58;" data-fa-transform="shrink-3 up-5"></i></a>
-                            </div>
-                            <p class="lead">You can manually search the vape shop that you want</p>
-                        </div>
-                        <div class="col-md-6">
-                            <h3>Use QR Code</h3>
-                            <div class="calculator">
-                                <a href="https://www.pornhub.com/" target="_blank"><i class="fas fa-qrcode fa-3x" data-fa-transform="shrink-3 up-5" style="color: #e3df58;"></i></a>
                             </div>
                             <p class="lead">You can manually search the vape shop that you want</p>
                         </div>
@@ -221,11 +214,11 @@
                             <div class="col-md-8">
                                 <blockquote>
                                     <i class="fas fa-quote-left"></i>
-                                    Bakit napakapogi ko? Tanong sa kaliwa, tanong sa kanan.
-                                    Hirap na hirap na kong maging gwapo. Minsan, binubully na 
-                                    ko ng marami, bakit daw napakagwapo ko. Ang hirap ng ganto,
-                                    maski professor, nagkakagusto sakin. Ulti mo lower year,
-                                    nilalakasan ung loob para lang magpa-autograph sakin.
+                                    He is a 5th year Computer Engineering student from the Polytechnic University of the Philippines. He became 
+                                    the Logistics Head of the 7th National Computer Engineering Research and Symposium (CoRES) and a member of 
+                                    the Association of Concerned Computer Engineering Students (ACCESS) for 5 years. He is a multi-talented 
+                                    energetic person that has interest in the sports of badminton, basketball, and volleyball. He is also a 
+                                    great singer and performer that lets him triumph in some competitions inside and outside of the university.
                                     <hr class="about-hr" />
                                     <cite>&#8212; Reyhan, .NET Developer</cite>
                                 </blockquote>
